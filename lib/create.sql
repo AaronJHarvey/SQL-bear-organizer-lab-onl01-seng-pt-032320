@@ -1,2 +1,8 @@
 CREATE TABLE bears (
-name)
+id name TEXT,
+age INTEGER,
+gender TEXT,
+color TEXT, 
+temperment TEXT, 
+alive TEXT, 
+)
